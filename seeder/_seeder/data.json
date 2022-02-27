@@ -1,0 +1,119 @@
+[
+    {
+        "name": "john",
+        "mobile": 5520022000,
+        "gender": "male",
+        "active": false,
+        "budget": 5000,
+        "skills": [
+            "html",
+            "css",
+            "php"
+        ]
+    },
+    {
+        "name": "Gopal ",
+        "mobile": 5520022008,
+        "gender": "male",
+        "active": true,
+        "budget": 25000,
+        "skills": [
+            "html",
+            "css",
+            "react"
+        ]
+    },
+    {
+        "name": "Akshay",
+        "mobile": 8820022008,
+        "gender": "male",
+        "active": false,
+        "budget": 1000,
+        "skills": [
+            "html",
+            "css",
+            "angular",
+            "node"
+        ]
+    },
+    {
+        "name": "Aniket",
+        "mobile": 7820022008,
+        "gender": "male",
+        "active": true,
+        "budget": 10000,
+        "skills": [
+            "html",
+            "css",
+            "vue"
+        ]
+    },
+    {
+        "name": "Ravi",
+        "mobile": 3820022008,
+        "gender": "male",
+        "active": true,
+        "budget": 8000,
+        "skills": [
+            "html",
+            "css",
+            "angular",
+            "node"
+        ]
+    },
+    {
+        "name": "Abhi",
+        "mobile": 2220022008,
+        "gender": "male",
+        "active": true,
+        "budget": 6000,
+        "skills": [
+            "html",
+            "css",
+            "php",
+            "mongo",
+            "angular"
+        ]
+    },
+    {
+        "name": "Pratiksha",
+        "mobile": 4520022008,
+        "gender": "femele",
+        "active": true,
+        "budget": 3000,
+        "skills": [
+            "html",
+            "css",
+            "ionic"
+        ]
+    },
+    {
+        "name": "Jasmin",
+        "mobile": 2820022008,
+        "gender": "femele",
+        "active": true,
+        "budget": 9000,
+        "skills": [
+            "html",
+            "css",
+            "typescript",
+            "react"
+        ]
+    },
+    {
+        "name": "SKILLHUB",
+        "mobile": 6620022008,
+        "gender": "femele",
+        "active": false,
+        "budget": 50000,
+        "skills": [
+            "html",
+            "css",
+            "angular",
+            "react",
+            "node",
+            "mongo",
+            "ionic"
+        ]
+    }
+]

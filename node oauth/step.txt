@@ -1,0 +1,6 @@
+1. npm i passport passport-google-outh express
+
+2.add middleware 
+passport.use(new GoogleStrategy());
+
+3. 

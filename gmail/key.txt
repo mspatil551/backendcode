@@ -1,0 +1,13 @@
+documentation
+https://developers.google.com/google-ads/api/docs/oauth/playground
+
+authrization key 
+4/0AX4XfWgJrONfEKKkOtTbO2iq6zOehyNSmtBrDvLwBgVBBj9sDETjqiD0mp5zar-iGrOjEQ
+refresh token
+1//04ZgsjpTFJQM0CgYIARAAGAQSNwF-L9IrxOahLkN2rURzF1evD3Kl-m6h_nz-1SyoYSq6boEJVFzVhbZRrDQVTyupHz1UBBPnQSs
+access token
+ya29.a0ARrdaM-V9_ij5Z4UPtCpR5kuRR1n7cyOQV6IxewgNe-4vKl2u1R2AJDtb4eakRBjMUv4S7goWer3xIqWSgHVzvk2Cf-Xehyaa_D0pvkOHkHnf3C_ZhJLp3Wv17e-2Wc0O1XYVPvYdnpSfipRReE1yUXzHoEL
+client id 
+385304884429-260dqt7rrok9devueksk7df8ldo9k86q.apps.googleusercontent.com
+secret key 
+AA5jnESpnZrK5rLW_A4eHgxB
